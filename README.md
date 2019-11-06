@@ -3,6 +3,7 @@
 
 ### This paragraph has `variable` inline code.
 
+#### html
 ```html
 +<!DOCTYPE html>
 <html lang="en">
@@ -31,6 +32,7 @@
 </html>
 ```
 
+#### CSS
 ```css
 
 body {
@@ -58,6 +60,7 @@ footer{
 
 ```
 
+#### JavaScript
 ```js
 
 function showTime() {
