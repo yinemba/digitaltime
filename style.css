@@ -1,0 +1,27 @@
+body {
+	background: #212121;
+	/*background-image: none;*/
+}
+
+/*img {
+	width: : 1080px ;*/
+/*}*/
+
+.clock {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	color: #ff4747;
+	font-size: 60px;
+	font-family: 'Righteous', cursive;
+	letter-spacing: 7px;
+}
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+}
